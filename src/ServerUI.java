@@ -66,7 +66,7 @@ public class ServerUI extends javax.swing.JFrame {
            jLabel1.setText("Server Started...");
            jLabel1.setForeground(Color.GREEN);
            isserverrunning=true;
-//           comment2
+
       }      
         } 
         catch(Exception ex)
