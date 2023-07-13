@@ -84,7 +84,7 @@ public class ServerUI extends javax.swing.JFrame {
         jLabel1.setText("Server Stopped");
         jLabel1.setForeground(Color.RED);
         isserverrunning=false;
-//        comment
+
     }//GEN-LAST:event_jbstopActionPerformed
 
     /**
