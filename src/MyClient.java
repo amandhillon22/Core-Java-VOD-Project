@@ -6,7 +6,7 @@ import javax.swing.JOptionPane;
 
 public class MyClient 
 {
-    static String fetchIndex()
+    public static String fetchIndex()
     {
         try
         {
